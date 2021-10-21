@@ -2,6 +2,6 @@
 Project for COMPROG1 - Ticketing System
 Collab by Caber & Questeria 
 
-/* TODO
+TODO
 1. Create Design for the GUI
-*/
+
