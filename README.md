@@ -18,4 +18,3 @@ TODO
 4. Incorporate a rounded edge for a frame with anti aliasing for every pages. (Launch Screen[draw.java] is done).
 5. Fix anti anti aliasing for every elements in a frame such as buttons. 
 6. Make gradient colors
-7. 
