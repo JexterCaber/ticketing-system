@@ -1,5 +1,3 @@
-import java.util.Locale;
-import java.util.Scanner;
 /*
     Accept: Name, Age, Number of Passenger, Travel Type, Travel Destination.
  */
@@ -12,9 +10,9 @@ public class Main {
     */
 
     public static void main(String[] args) {
-        
-    new draw();
-    new MyFrame();
+
+        new draw();
+        new MyFrame();
 
     }
 }
